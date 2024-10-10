@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.blueshadow{
+    box-shadow: 2px 2px 0  rgb(149, 149, 248) ;
+}
+
+body{
+    font-family:'Rajdhani',sans-serif;
+}
+
